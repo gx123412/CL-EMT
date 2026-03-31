@@ -4,3 +4,4 @@ A Cross-Subject EEG-based Emotion Recognition<img width="1806" height="762" alt=
 
 ## the python environment: "/Preprocessing/win_cl-emt.yml".
 ## RUN run_lab.py
+## A cross-subject EEG-based emotion recognition model of contrastive learning and GCN-transformer[C]//2025 International Conference on Big Data and Data Mining (BDDM). Hengyang, China: IEEE, 2025: 1-5.
